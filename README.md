@@ -13,7 +13,7 @@ The purpose of this project is to understand the core mechanics of feedforward n
 Brief description of the supervised learning task:
 
 * Task type: (Classification / Regression)
-* Dataset: (Name or short description)
+* Dataset: 
 * Number of features:
 * Target variable:
 
@@ -60,7 +60,7 @@ Loss function:
 Summarize the training outcome:
 
 * Final training loss:
-* Validation accuracy (if applicable):
+* Validation accuracy:
 * Observations regarding convergence behavior
 * Notes on overfitting or underfitting
 
@@ -72,8 +72,8 @@ Summarize the training outcome:
 ai-ann-coursework/
 │
 ├── notebooks/      # Jupyter notebooks
-├── src/            # Core implementation (if separated)
-├── data/           # Dataset (if included)
+├── src/            # Core implementation 
+├── data/           # Dataset 
 ├── requirements.txt
 └── README.md
 ```
@@ -85,7 +85,7 @@ ai-ann-coursework/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/ai-ann-coursework.git
+   git clone https://github.com/Flywzen/ai-ann-coursework.git
    ```
 
 2. Install dependencies:
