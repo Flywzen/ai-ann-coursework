@@ -204,11 +204,7 @@ plt.show()
 
 
 from sklearn.model_selection import StratifiedKFold
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout, Input
-from tensorflow.keras.callbacks import EarlyStopping
 from sklearn.metrics import accuracy_score
-import numpy as np
 
 
 # 1. PREPROCESSING SEKALI
@@ -281,7 +277,7 @@ for fold, (train_idx, val_idx) in enumerate(skf.split(X_all, y_all)):
 
 print("\n===========================")
 print("K-Fold Evaluation Summary")
-
+print("\n===========================")
 print("Akurasi per fold:", fold_accuracies)
 print("Rata-rata akurasi:", np.mean(fold_accuracies))
 print("Standar deviasi:", np.std(fold_accuracies))
