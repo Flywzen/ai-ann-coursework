@@ -204,7 +204,11 @@ plt.show()
 
 
 from sklearn.model_selection import StratifiedKFold
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Dropout, Input
+from tensorflow.keras.callbacks import EarlyStopping
 from sklearn.metrics import accuracy_score
+import numpy as np
 
 
 # 1. PREPROCESSING SEKALI
