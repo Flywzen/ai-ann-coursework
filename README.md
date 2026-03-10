@@ -12,7 +12,7 @@ The purpose of this project is to understand the core mechanics of feedforward n
 
 Brief description of the supervised learning task:
 
-* Task type: (Classification / Regression)
+* Task type: 
 * Dataset: 
 * Number of features:
 * Target variable:
@@ -40,7 +40,7 @@ a^{(l)} = f(z^{(l)})
 
 Loss function:
 
-* Mean Squared Error (for regression), or
+* Mean Squared Error (for regression) 
 * Cross-Entropy Loss (for classification)
 
 ---
