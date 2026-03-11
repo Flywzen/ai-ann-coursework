@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a coursework implementation of an Artificial Neural Network (ANN) developed for an Artificial Intelligence class.
+This repository contains a coursework implementation of an Artificial Neural Network (ANN) developed for artificial intelligence class.
 
 The purpose of this project is to understand the core mechanics of feedforward neural networks, including forward propagation, backpropagation, loss computation, and parameter updates through gradient-based optimization.
 
@@ -71,9 +71,9 @@ Summarize the training outcome:
 ```
 ai-ann-coursework/
 │
-├── notebooks/      # Jupyter notebooks
-├── src/            # Core implementation 
-├── data/           # Dataset 
+├── notebooks/      
+├── src/            
+├── data/           
 ├── requirements.txt
 └── README.md
 ```
