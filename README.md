@@ -113,4 +113,4 @@ ai-ann-coursework/
 
 ## Notes
 
-This project is intended for academic learning purposes and focuses on understanding fundamental neural network behavior rather than production-level optimization.
+This project is intended for academic learning purposes and focuses on understanding fundamental neural network.
