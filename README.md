@@ -1,4 +1,4 @@
-# AI ANN Coursework
+# Artificial Intelligence Coursework
 
 ## Overview
 
